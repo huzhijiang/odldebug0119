@@ -1,0 +1,14 @@
+[mon.]
+	key = AQCpcWFaFwZNFBAA60nKSNS/Aau5T26YZgARLw==
+	caps mon = "allow *"
+[client.admin]
+	key = AQCpcWFavo7qFhAAzgCRn1Os4zds2gsymnK6EQ==
+	auid = 0
+	caps mds = "allow"
+	caps mon = "allow *"
+	caps osd = "allow *"
+[client.radosgw.gateway]
+	key = AQCpcWFacqNZGRAAKefJ+nvGRndhluN71erkig==
+	auid = 0
+	caps mon = "allow rwx"
+	caps osd = "allow rwx"
