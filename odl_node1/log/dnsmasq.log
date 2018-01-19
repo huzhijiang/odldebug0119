@@ -1,0 +1,28 @@
+Jan 19 12:50:34 dnsmasq[99]: started, version 2.76 cachesize 150
+Jan 19 12:50:34 dnsmasq[99]: compile time options: IPv6 GNU-getopt DBus no-i18n IDN DHCP DHCPv6 no-Lua TFTP no-conntrack ipset auth no-DNSSEC loop-detect inotify
+Jan 19 12:50:34 dnsmasq-dhcp[99]: DHCP, static leases only on 192.168.13.0, lease time 1d
+Jan 19 12:50:34 dnsmasq-dhcp[99]: DHCP, sockets bound exclusively to interface tape3412c17-2a
+Jan 19 12:50:34 dnsmasq[99]: using nameserver 8.8.4.4#53
+Jan 19 12:50:34 dnsmasq[99]: using nameserver 8.8.8.8#53
+Jan 19 12:50:34 dnsmasq[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/addn_hosts - 1 addresses
+Jan 19 12:50:34 dnsmasq-dhcp[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/host
+Jan 19 12:50:34 dnsmasq-dhcp[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/opts
+Jan 19 12:50:36 dnsmasq[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/addn_hosts - 1 addresses
+Jan 19 12:50:36 dnsmasq-dhcp[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/host
+Jan 19 12:50:36 dnsmasq-dhcp[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/opts
+Jan 19 12:50:37 dnsmasq[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/addn_hosts - 1 addresses
+Jan 19 12:50:37 dnsmasq-dhcp[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/host
+Jan 19 12:50:37 dnsmasq-dhcp[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/opts
+Jan 19 12:50:39 dnsmasq[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/addn_hosts - 2 addresses
+Jan 19 12:50:39 dnsmasq-dhcp[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/host
+Jan 19 12:50:39 dnsmasq-dhcp[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/opts
+Jan 19 12:50:41 dnsmasq[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/addn_hosts - 2 addresses
+Jan 19 12:50:41 dnsmasq-dhcp[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/host
+Jan 19 12:50:41 dnsmasq-dhcp[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/opts
+Jan 19 12:50:42 dnsmasq[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/addn_hosts - 2 addresses
+Jan 19 12:50:42 dnsmasq-dhcp[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/host
+Jan 19 12:50:42 dnsmasq-dhcp[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/opts
+Jan 19 12:55:45 dnsmasq-dhcp[99]: DHCPRELEASE(tape3412c17-2a) 192.168.13.17 fa:16:3e:57:70:b9 unknown lease
+Jan 19 12:55:46 dnsmasq[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/addn_hosts - 1 addresses
+Jan 19 12:55:46 dnsmasq-dhcp[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/host
+Jan 19 12:55:46 dnsmasq-dhcp[99]: read /var/lib/neutron/dhcp/c73a515b-396d-4d09-a766-dfd7c5abb103/opts
